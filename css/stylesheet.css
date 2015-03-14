@@ -1,5 +1,5 @@
 .box{
-	width: 1200px;
+	width: 1180px;
 	height: auto;
 	margin-right: auto;
 	margin-left: auto;
@@ -11,17 +11,22 @@ body{
 	padding: 0;
 }
 
+body section{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 header #top-nav{
 	height: 41px; 
+	margin-bottom: 37px;
 }
 
 
 header #top-nav nav{
-	width: 1180px;
+	width: 100%;
 	background-color: #000000;
 	height: 100%;
-	margin-right: auto;
-	margin-left: auto;
 }
 
 header #top-nav nav ul{
@@ -73,4 +78,37 @@ header #top-nav nav ul + ul li a{
 header #top-nav nav ul + ul li + li a{
 	color: #ffffff;
 	font-size: 13px;
+}
+
+
+header #middle{
+	height: 65px;
+}
+
+header #middle div{
+	width: 33.33%;
+	float: left;
+	height: 100%;
+	text-align: center;
+}
+
+header #middle div + div{
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/logo.png?16579107724765185310');
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+}
+
+header #middle div + div + div{
+	background-image: none;
+
+}
+
+header #middle div + div + div a{
+	float: right;
+	text-decoration: none;
+	margin-top: 5px;
+	font-weight: bold;
+	color: #A3A38E;
+	font-size: 12px;
+	letter-spacing: 0.5px;
 }
