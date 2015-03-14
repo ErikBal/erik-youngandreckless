@@ -4,17 +4,28 @@
 		<title>
 			Erik-YoungandReckless
 		</title>
-		<link href="css/load.css" rel="stylesheet" type="text/css">
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<header>
 			<section id="top-nav" class="box">
 				<nav>
 					<ul>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
+						<li>
+							<a href="#">Reckless Points</a>
+						</li>
+					</ul>
+					<ul>
+						<li>
+							<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-currency-4.png?16579107724765185310">
+							<a href="#">USD</a>
+						</li>
+						<li>
+							<a href="#">Register</a>
+						</li>
+						<li>
+							<a href="#">Login</a>
+						</li>
 					</ul>
 				</nav>
 			</section>
@@ -38,15 +49,15 @@
 			</section>
 		</header>
 		<main>
-			<div id="top" class="box">
+			<section id="top" class="box">
 				<img src="">
-			</div>
-			<div id="products" class="box">
+			</section>
+			<section id="products" class="box">
 
-			</div>
-			<div id="bottom" class="box">
+			</section>
+			<section id="bottom" class="box">
 
-			</div>
+			</sections>
 		</main>
 		<footer>
 			<section id="top">

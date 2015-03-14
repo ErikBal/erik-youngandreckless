@@ -1,0 +1,76 @@
+.box{
+	width: 1200px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+body{
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}
+
+header #top-nav{
+	height: 41px; 
+}
+
+
+header #top-nav nav{
+	width: 1180px;
+	background-color: #000000;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header #top-nav nav ul{
+	width: 25%;
+	margin: 0;
+	background-color: #000000;
+	height: 100%;
+	float: left;
+	padding: 0;
+}
+
+header #top-nav nav ul li{
+	list-style: none;
+	width: 50%;
+	height: 40px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	float: center;
+	margin-top: 10px;
+}
+
+header #top-nav nav ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 14px;
+}
+
+header #top-nav nav ul + ul{
+	width: 75%;
+	height: 100%;
+	list-style: none;
+	float: left;
+	margin: 0;
+}
+
+header #top-nav nav ul + ul li{
+	list-style: none;
+	float: right;
+	width: 7.5%;
+}
+
+header #top-nav nav ul + ul li a{
+	text-decoration: none;
+	color: #A3A38E;
+	font-size: 11px;
+}
+
+header #top-nav nav ul + ul li + li a{
+	color: #ffffff;
+	font-size: 13px;
+}
