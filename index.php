@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<header>
-			<div id="top-nav" class="box">
+			<section id="top-nav" class="box">
 				<nav>
 					<ul>
 						<li></li>
@@ -17,13 +17,13 @@
 						<li></li>
 					</ul>
 				</nav>
-			</div>
-			<div id="middle" class="box">
+			</section>
+			<section id="middle" class="box">
 				<div></div>
 				<div></div>
 				<div></div>
 			</div>
-			<div id="bottom-nav" class="box">
+			<section id="bottom-nav" class="box">
 				<nav>
 					<ul>
 						<li></li>
@@ -35,7 +35,7 @@
 						<li></li>
 					</ul>
 				</nav>
-			</div>
+			</section>
 		</header>
 		<main>
 			<div id="top" class="box">
