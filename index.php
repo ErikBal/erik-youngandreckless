@@ -42,10 +42,35 @@
 				<img src="">
 			</div>
 			<div id="products" class="box">
+
 			</div>
 			<div id="bottom" class="box">
 
 			</div>
 		</main>
+		<footer>
+			<section id="top">
+				<div>
+				</div>
+				<div>
+				</div>
+			</section>
+			<section id="middle">
+				<div>
+				</div>
+			</div>
+			<section id="bottom">
+				<article>
+				</article>
+				<nav>
+					<ul>
+						<li></li>
+						<li></li>
+					</ul>
+				</nav>
+				<div>
+				</div>
+			</section>
+		</footer>
 	</body>
 </html>
