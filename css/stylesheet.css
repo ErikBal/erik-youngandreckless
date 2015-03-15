@@ -11,11 +11,7 @@ body{
 	padding: 0;
 }
 
-body section{
-	width: 1200px;
-	margin-right: auto;
-	margin-left: auto;
-}
+
 
 header #top-nav{
 	height: 41px; 
@@ -94,24 +90,15 @@ header #middle div{
 
 header #middle div input{
 	border: 1px solid #797979;
-	border-top-color: rgb(121, 121, 121);
-	border-top-style: solid;
-	border-top-width: 1px;
-	border-right-color: rgb(121, 121, 121);
-	border-right-style: solid;
-	border-right-width: 1px;
-	border-bottom-color: rgb(121, 121, 121);
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
-	border-left-color: rgb(121, 121, 121);
-	border-left-style: solid;
-	border-left-width: 1px;
+	border-color: rgb(121, 121, 121);
+	border-style: solid;
+	border-width: 1px;
 	background: none;
 	text-transform: uppercase;
 	color: rgba(0,0,0,1);
 	width: 170px;
 	padding: 5px 40px 5px 15px;
-	height: 27px;
+	height: 28px;
 	float: left;
 	font-size: 11px
 }
@@ -135,4 +122,44 @@ header #middle div + div + div a{
 	color: #A3A38E;
 	font-size: 12px;
 	letter-spacing: 0.8px;
+}
+
+
+header #bottom-nav{
+	height: 29px;
+	width: 100%;
+}
+
+header #bottom-nav nav{
+	height: 100%;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+
+header #bottom-nav nav ul{
+	list-style: none;
+	height: 100%;
+	width: 850px;
+	padding: 0;
+	margin: 0 auto 0 auto;
+}
+
+
+header #bottom-nav nav ul li{
+	float: left;
+	height: 100%;
+	width: 14%;
+	text-align: center;
+	
+}
+
+
+header #bottom-nav nav ul li a{
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+
 }
