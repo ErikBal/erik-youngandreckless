@@ -31,7 +31,9 @@
 					</nav>
 				</section>
 				<section id="middle" class="box">
-					<div>fgdf</div>
+					<div>
+						<input type="text" placeholder="LOOK FOR SOMETHING">
+					</div>
 					<div></div>
 					<div>
 							<a href="#">MY CART (0)</a>

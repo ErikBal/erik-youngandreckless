@@ -92,6 +92,30 @@ header #middle div{
 	text-align: center;
 }
 
+header #middle div input{
+	border: 1px solid #797979;
+	border-top-color: rgb(121, 121, 121);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: rgb(121, 121, 121);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: rgb(121, 121, 121);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgb(121, 121, 121);
+	border-left-style: solid;
+	border-left-width: 1px;
+	background: none;
+	text-transform: uppercase;
+	color: rgba(0,0,0,1);
+	width: 170px;
+	padding: 5px 40px 5px 15px;
+	height: 27px;
+	float: left;
+	font-size: 11px
+}
+
 header #middle div + div{
 	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/logo.png?16579107724765185310');
 	background-repeat: no-repeat;
@@ -106,9 +130,9 @@ header #middle div + div + div{
 header #middle div + div + div a{
 	float: right;
 	text-decoration: none;
-	margin-top: 5px;
-	font-weight: bold;
+	margin-top: 12px;
+	font-weight: bolder;
 	color: #A3A38E;
 	font-size: 12px;
-	letter-spacing: 0.5px;
+	letter-spacing: 0.8px;
 }
