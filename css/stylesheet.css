@@ -13,6 +13,11 @@ body{
 
 
 
+
+/*HEADER*/
+
+
+
 header #top-nav{
 	height: 41px; 
 	margin-bottom: 37px;
@@ -109,10 +114,12 @@ header #middle div + div{
 	background-position: 50% 0;
 }
 
+
 header #middle div + div + div{
 	background-image: none;
 
 }
+
 
 header #middle div + div + div a{
 	float: right;
@@ -163,3 +170,121 @@ header #bottom-nav nav ul li a{
 	color: #000000;
 
 }
+
+
+/*HEADER-END*/
+
+
+/*MAIN*/
+.img-animation{
+	width: 280px;
+	height: 280px;
+	transition: all 0.75s ease-in-out;
+ 	opacity: 0.5;
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.price-caption-standart{
+
+}
+
+.price-caption-old{
+
+}
+
+.price-caption-sale{
+	
+}
+
+
+main #top img{
+	margin-top: 17px;
+}
+
+main #products{
+	width: 1200px;
+}
+
+main #products h2{
+	margin-top: 14px;
+	font-size: 20px;
+	font-weight: bolder;
+	letter-spacing: 1.5px;
+	text-align: center;
+}
+
+main #products figure{
+	width: 25%;
+	background-color: blue;
+	margin: 0;
+	padding: 0;
+	float: left;
+	height: 390px;
+}
+
+main #products figure #img1{
+	background-image: url('');
+}
+
+main #products figure #img2{
+	background-image: url('');
+}
+
+main #products figure #img3{
+	background-image: url('');
+}
+
+main #products figure #img4{
+	background-image: url('');
+}
+
+main #products figure #img5{
+	background-image: url('');
+}
+
+main #products figure #img6{
+	background-image: url('');
+}	
+
+main #products figure #img7{
+	background-image: url('');
+}
+
+main #products figure #img8{
+	background-image: url('');
+}
+
+main #products figure #img9{
+	background-image: url('');
+}
+
+main #products figure #img10{
+	background-image: url('');
+}
+
+main #products figure #img11{
+	background-image: url('');
+}
+
+main #products figure #img12{
+	background-image: url('');
+}
+
+main #products figure #img13{
+	background-image: url('');
+}
+
+main #products figure #img14{
+	background-image: url('');
+}
+
+main #products figure #img15{
+	background-image: url('');
+}
+
+main #products figure #img16{
+	background-image: url('');
+}
+
