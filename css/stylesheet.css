@@ -180,7 +180,7 @@ header #bottom-nav nav ul li a{
 
 
 main{
-	height: 2900px;
+	height: 2945px;
 }
 
 main #top img{
@@ -398,7 +398,8 @@ main #bottom{
 
 main #bottom div{
 	width: 100%;
-	padding-bottom: 30px;
+	height: 105px;
+	padding-top: 60px;
 }
 
 main #bottom div p{
@@ -411,8 +412,10 @@ main #bottom div p{
 	color: #6C6C61;
 	font-weight: bold;
 	border-radius: 45px 10px;
-	line-height: 39px;
 	font-size: 13px;
+	margin-bottom: 30px;
+	height: 42px;
+	line-height: 39px;
 }
 
 main #bottom div p:hover{
@@ -448,7 +451,7 @@ footer{
 }
 
 footer #top{
-	height: 150px;
+	height: 170px;
 	width: 100%;
 	background-color: #F8F8F8;
 }
@@ -456,8 +459,92 @@ footer #top{
 footer #top .box div{
 	width: 50%;
 	float: left;
+	padding-top: 15px;
 }
 
 footer #top .box div h3{
-	
+	text-align: center;
+	font-weight: 2000;
+	font-size: 20px;
+}
+
+
+footer #top .box div input{
+	width: 60%;
+	color: #ebebeb;
+	font-size: 12px;
+	line-height: 42px;
+	padding-left: 20px;
+	margin-left: 40px;
+}
+
+
+footer #top .box div button{
+	width: 120px;
+	line-height: 41px;
+	text-align: center;
+	background-color: #000000;
+	color: #ffffff;
+	border-color: #000000;
+	font-weight: 2000;
+	margin-left: 5px;
+}
+
+footer #top .box div + div ul{
+	list-style: none;
+	padding: 0;
+	width: 280px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+footer #top .box div + div ul li{
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+
+footer #middle{
+	background-color: #1B1B1B;
+	width: 100%;
+	height: 180px;
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+
+
+footer #middle div{
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 180px;
+}
+
+footer #middle div div{
+	width: 20%;
+	float: left;
+}
+
+footer #middle div div h3{
+	color: #ffffff;
+	font-size: 10px;
+	margin-left: 20px;
+}
+
+footer #middle div div ul{
+	list-style: none;
+	padding: 0;
+	color: #D1D1D1;
+	font-size: 12px;
+	margin-left: 20px;
+	line-height: 20px;
+}
+
+footer #middle div div + div article{
+	color: #D1D1D1;
+	margin-left: 20px;
+	font-size: 12px;
+	line-height: 20px;
 }

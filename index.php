@@ -211,15 +211,68 @@
 				<div class="box">
 					<div>
 						<h3>GET THE LATEST</h3>
+						<input type="text" placeholder="ENTER YOUR EMAIL ADDRESS">
+						<button type="submit"> SIGN UP</button>
 					</div>
 					<div>
 						<h3>FOLLOW US</h3>
+						<ul>
+							<li>
+								<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-facebook.png?2752116710273454960">
+							</li>
+							<li>
+								<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-twitter.png?2752116710273454960">
+							</li>
+							<li>
+								<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-vimeo.png?2752116710273454960">
+							</li>
+							<li>
+								<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-instagram.png?2752116710273454960">
+							</li>
+							<li>
+								<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/i-google.png?2752116710273454960">
+							</li>
+						</ul>
 					</div>
 				</div>
 			</section>
 			<section id="middle">
 				<div>
-			</div>
+					<div>
+						<h3>SUPPORT</h3>
+						<ul>
+							<li>
+								Contact Us
+							</li>
+							<li>
+								Privacy Policy
+							</li>
+							<li>
+								Terms & Conditions
+							</li>
+							<li>
+								Help / FAQ
+							</li>
+							<li>
+								Size Charts
+							</li>
+						</ul>
+					</div>
+					<div>
+						<h3>ACCOUNT INFO</h3>
+						<article>
+							Young & Reckless <br />
+							Los Angeles, <br />
+							CA 90016, United States
+
+							<br />
+							<br />
+							Call us at 1.888.972.0809 <br />
+							info@youngandreckless.com
+						</article>
+
+					</div>
+				</div>
 				</section>
 			<section id="bottom">
 				<article>
