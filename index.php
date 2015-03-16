@@ -276,12 +276,17 @@
 				</section>
 			<section id="bottom">
 				<article>
+					© 2014 Young and Reckless
 				</article>
-				<nav>
-					<ul>
-					</ul>
-				</nav>
-				<div>
+				<ul>
+					<li>Search</li>
+					<li>About Us</li>
+				</ul>
+				<div>	
+					<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/icon-cc-paypal.png?13110742503792062259">
+					<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/icon-cc-american-express.png?13110742503792062259">
+					<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/icon-cc-mastercard.png?13110742503792062259">
+					<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/icon-cc-visa.png?13110742503792062259">
 				</div>
 			</section>
 		</footer>
