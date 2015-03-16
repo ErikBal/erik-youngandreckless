@@ -208,9 +208,13 @@
 		</main>
 		<footer>
 			<section id="top">
-				<div>
-				</div>
-				<div>
+				<div class="box">
+					<div>
+						<h3>GET THE LATEST</h3>
+					</div>
+					<div>
+						<h3>FOLLOW US</h3>
+					</div>
 				</div>
 			</section>
 			<section id="middle">
