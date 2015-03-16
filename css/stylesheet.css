@@ -177,35 +177,10 @@ header #bottom-nav nav ul li a{
 
 
 /*MAIN*/
-.img-animation{
-	width: 280px;
-	height: 280px;
-	transition: all  ease-in-out 0s;
- 	display: block;
- 	margin-left: auto;
- 	margin-right: auto;
- 	background-repeat: no-repeat;
-	background-size: 280px 280px;
-}
 
-.img-animation:hover{
-  	opacity: .4;
-}
-
-.price-caption-standart{
-
-}
-
-.price-caption-old{
-
-}
-
-.price-caption-sale{
-
-}
 
 main{
-	height: 2450px;
+	height: 3103px;
 }
 
 main #top img{
@@ -362,3 +337,58 @@ main #products figure #img16{
 main #products figure #img16:hover{
 	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/150123YR0126_5-Edit_large.jpg?v=1426202115');
 }
+
+
+ main #products figure figcaption{
+	text-align: center;
+	font-size: 12px;
+	margin-top: 15px;
+	font-weight: lighter;
+}
+
+ main #products figure figcaption + figcaption{
+ 	margin-top: 10px;
+ }
+
+/*-----Product, Pricing Classes---------*/
+
+.img-animation{
+	width: 280px;
+	height: 280px;
+	transition: all  ease-in-out 0s;
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background-repeat: no-repeat;
+	background-size: 280px 280px;
+}
+
+.img-animation:hover{
+  	opacity: .4;
+
+}
+
+.price-caption-standart{
+	color: #000000;
+	font-size: 15px;
+	font-weight: bold;
+	width: 25%;
+}
+
+.price-caption-old{
+	color: #CCCCCC;
+	text-decoration: line-through;
+	font-size: 15px;
+	font-weight: bold;
+	width: 150px;
+}	
+
+.price-caption-sale{
+	color:	#FF0000;
+	font-size: 15px;
+	font-weight: bold;
+	width: 150px;
+	margin-left: 8px;
+}
+
+/*-------------------------*/

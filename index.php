@@ -78,70 +78,118 @@
 				<!--FIRST ROW-->
 				<figure>
 					<span id="img1" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>NUMBER 86 ROPE LA CITY - WOMEN'S 3/4 RAGLAN</figcaption>
+					<figcaption>
+						<span class="price-caption-old">$27.99</span><span class="price-caption-sale">$10.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img2" class="img-animation" ></span>
-					<figcaption> </figcaption>
+					<figcaption>QUEEN BONNIE 86</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$34.50</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img3" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>EL AYE RECKLESS</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$26.50</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img4" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>MIDDLE CHILD</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$26.50</span>
+					</figcaption>
 				</figure>
 				<!--SECOND ROW-->
 				<figure>
 					<span id="img5" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>POT O GOLD - S/S TEE</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$28.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img6" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>BEER THIRTY - S/S TEE</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$30.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img7" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>BEER THIRTY - SHORTS</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$47.99</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img8" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>KISS ME</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$26.50</span>
+					</figcaption>
 				</figure>
 				<!--THIRD ROW-->
 				<figure>
 					<span id="img9" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>GRAND PRIZE - S/S TEE</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$28.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img10" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>YOUNG & THIRSTY - S/S TEE</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$28.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img11" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>POT O GOLD - SOCKS</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$9.99</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img12" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>LARG'R THAN EVER - CREWNECK</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$47.99</span>
+					</figcaption>
 				</figure>
 				<!--FORTH ROW-->
 				<figure>
 					<span id="img13" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>BIG R SCRIPT - SNAPBACK</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$30.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img14" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>TIDAL WAVE - POCKET TEE </figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$29.99</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img15" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>VARSITY PALMS - SOCCER JERSEY</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$39.00</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<span id="img16" class="img-animation"></span>
-					<figcaption> </figcaption>
+					<figcaption>EL AYE RECKLESS - MUSCLE TANK</figcaption>
+					<figcaption>
+						<span class="price-caption-standart">$26.50</span>
+					</figcaption>
 				</figure>
 			</section>
 			<section id="bottom" class="box">
