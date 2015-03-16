@@ -398,7 +398,7 @@ main #bottom{
 
 main #bottom div{
 	width: 100%;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 }
 
 main #bottom div p{
@@ -412,6 +412,7 @@ main #bottom div p{
 	font-weight: bold;
 	border-radius: 45px 10px;
 	line-height: 39px;
+	font-size: 13px;
 }
 
 main #bottom div p:hover{
