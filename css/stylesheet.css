@@ -9,6 +9,7 @@ body{
 	margin: 0;
 	width: 100%;
 	padding: 0;
+	height: auto;
 }
 
 
@@ -179,7 +180,7 @@ header #bottom-nav nav ul li a{
 .img-animation{
 	width: 280px;
 	height: 280px;
-	transition: all 0.75s ease-in-out;
+	transition: all  ease-in-out 0s;
  	display: block;
  	margin-left: auto;
  	margin-right: auto;
@@ -188,7 +189,7 @@ header #bottom-nav nav ul li a{
 }
 
 .img-animation:hover{
-  	opacity: .5;
+  	opacity: .4;
 }
 
 .price-caption-standart{
@@ -203,6 +204,9 @@ header #bottom-nav nav ul li a{
 
 }
 
+main{
+	height: 2450px;
+}
 
 main #top img{
 	margin-top: 17px;
@@ -210,6 +214,7 @@ main #top img{
 
 main #products{
 	width: 1200px;
+	height: 80%;
 }
 
 main #products h2{
@@ -255,105 +260,105 @@ main #products figure #img3:hover{
 }
 
 main #products figure #img4{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/017_large.jpg?v=1426202098');
 }
 
 main #products figure #img4:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/020_large.jpg?v=1426202098');
 }
 
 main #products figure #img5{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_1_large.jpg?v=1425926182');
 }
 
 main #products figure #img5:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_1_large.jpg?v=1425926182');
 }
 
 main #products figure #img6{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_2_large.jpg?v=1425925441');
 }	
 
 main #products figure #img6:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_2_large.jpg?v=1425925441');
 }
 
 main #products figure #img7{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7724-Edit_copy_large.jpg?v=1425931619');
 }
 
 main #products figure #img7:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7725-Edit_copy_large.jpg?v=1425931620');
 }
 
 main #products figure #img8{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/kCv8vNoxp_Z9pYeEL6LKzamk2vcEr_6iHWONPg8y_6Y_large.jpeg?v=1426202113');
 }
 
 main #products figure #img8:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/UG8X6NtubYlFmyEUuuloUjICBwHb6aoM1N8hg2O3Lac_large.jpeg?v=1426202113');
 }
 
 main #products figure #img9{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_4_large.jpg?v=1425927151');
 }
 
 main #products figure #img9:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_4_large.jpg?v=1425927151');
 }
 
 main #products figure #img10{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_3_large.jpg?v=1425925990');
 }
 
 main #products figure #img10:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/stpatties_3_large.jpg?v=1425925990');
 }
 
 main #products figure #img11{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7727-Edit_large.jpg?v=1425931419');
 }
 
 main #products figure #img11:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7727-Edit_large.jpg?v=1425931419');
 }
 
 main #products figure #img12{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/heather-crewneck_largR_large.jpg?v=1426114480');
 }
 
 main #products figure #img12:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/heather-crewneck_largRb_ack_large.jpg?v=1426114488');
 }
 
 main #products figure #img13{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_6735-Edit_large.jpg?v=1423769798');
 }
 
 main #products figure #img13:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_6736-Edit_large.jpg?v=1423769798');
 }
 
 main #products figure #img14{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_6670-Edit_large.jpg?v=1423765443');
 }
 
 main #products figure #img14:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/YRMENS0138_60_large.jpg?v=1423765443');
 }
 
 main #products figure #img15{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/m5fhNZomTPy_Y0s0xuOCBhkvVgtFbWh0gyDcculPrI4_32437331-fae6-4293-b9ae-8ed3474b17a3_large.jpeg?v=1423765610');
 }
 
 main #products figure #img15:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/YRMENS0138_71_large.jpg?v=1423765610');
 }
 
 main #products figure #img16{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/150123YR0126_large.jpg?v=1426202115');
 }
 
 main #products figure #img16:hover{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/150123YR0126_5-Edit_large.jpg?v=1426202115');
 }

@@ -77,7 +77,7 @@
 				<h2>NEW PRODUCTS</h2>
 				<!--FIRST ROW-->
 				<figure>
-					<span id="img1" class="img-animation"> </span>
+					<span id="img1" class="img-animation"></span>
 					<figcaption> </figcaption>
 				</figure>
 				<figure>
