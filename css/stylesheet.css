@@ -180,10 +180,15 @@ header #bottom-nav nav ul li a{
 	width: 280px;
 	height: 280px;
 	transition: all 0.75s ease-in-out;
- 	opacity: 0.5;
  	display: block;
  	margin-left: auto;
  	margin-right: auto;
+ 	background-repeat: no-repeat;
+	background-size: 280px 280px;
+}
+
+.img-animation:hover{
+  	opacity: .5;
 }
 
 .price-caption-standart{
@@ -195,7 +200,7 @@ header #bottom-nav nav ul li a{
 }
 
 .price-caption-sale{
-	
+
 }
 
 
@@ -217,7 +222,6 @@ main #products h2{
 
 main #products figure{
 	width: 25%;
-	background-color: blue;
 	margin: 0;
 	padding: 0;
 	float: left;
@@ -225,18 +229,36 @@ main #products figure{
 }
 
 main #products figure #img1{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7811-Edit_aa5839d5-b8e4-47c1-a0f8-453ba4fde6e2_large.jpg?v=1426207240');
+}
+
+main #products figure #img1:hover{
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/DSC_7812-Edit_0bcc97cb-4dc7-44aa-805d-202d0d9de7d3_large.jpg?v=1426207241');
+
 }
 
 main #products figure #img2{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/001_large.jpg?v=1426202040');
+}
+
+main #products figure #img2:hover{
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/004_large.jpg?v=1426202040');
+
 }
 
 main #products figure #img3{
-	background-image: url('');
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/034_large.jpg?v=1426202096');
+}
+
+main #products figure #img3:hover{
+	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/037_large.jpg?v=1426202096');
 }
 
 main #products figure #img4{
+	background-image: url('');
+}
+
+main #products figure #img4:hover{
 	background-image: url('');
 }
 
@@ -244,11 +266,23 @@ main #products figure #img5{
 	background-image: url('');
 }
 
+main #products figure #img5:hover{
+	background-image: url('');
+}
+
 main #products figure #img6{
 	background-image: url('');
 }	
 
+main #products figure #img6:hover{
+	background-image: url('');
+}
+
 main #products figure #img7{
+	background-image: url('');
+}
+
+main #products figure #img7:hover{
 	background-image: url('');
 }
 
@@ -256,7 +290,15 @@ main #products figure #img8{
 	background-image: url('');
 }
 
+main #products figure #img8:hover{
+	background-image: url('');
+}
+
 main #products figure #img9{
+	background-image: url('');
+}
+
+main #products figure #img9:hover{
 	background-image: url('');
 }
 
@@ -264,7 +306,15 @@ main #products figure #img10{
 	background-image: url('');
 }
 
+main #products figure #img10:hover{
+	background-image: url('');
+}
+
 main #products figure #img11{
+	background-image: url('');
+}
+
+main #products figure #img11:hover{
 	background-image: url('');
 }
 
@@ -272,7 +322,15 @@ main #products figure #img12{
 	background-image: url('');
 }
 
+main #products figure #img12:hover{
+	background-image: url('');
+}
+
 main #products figure #img13{
+	background-image: url('');
+}
+
+main #products figure #img13:hover{
 	background-image: url('');
 }
 
@@ -280,7 +338,15 @@ main #products figure #img14{
 	background-image: url('');
 }
 
+main #products figure #img14:hover{
+	background-image: url('');
+}
+
 main #products figure #img15{
+	background-image: url('');
+}
+
+main #products figure #img15:hover{
 	background-image: url('');
 }
 
@@ -288,3 +354,6 @@ main #products figure #img16{
 	background-image: url('');
 }
 
+main #products figure #img16:hover{
+	background-image: url('');
+}
