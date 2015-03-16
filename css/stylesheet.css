@@ -189,7 +189,7 @@ main #top img{
 
 main #products{
 	width: 1200px;
-	height: 80%;
+	height: 53%;
 }
 
 main #products h2{
@@ -223,7 +223,6 @@ main #products figure #img2{
 
 main #products figure #img2:hover{
 	background-image: url('http://cdn.shopify.com/s/files/1/0340/3381/products/004_large.jpg?v=1426202040');
-
 }
 
 main #products figure #img3{
@@ -392,3 +391,50 @@ main #products figure #img16:hover{
 }
 
 /*-------------------------*/
+
+main #bottom{
+	width: 1200px;
+}
+
+main #bottom div{
+	width: 100%;
+	padding-bottom: 20px;
+}
+
+main #bottom div p{
+	border: 2px solid;
+	border-color: #D1D1D1;
+	width: 25%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color: #6C6C61;
+	font-weight: bold;
+	border-radius: 45px 10px;
+	line-height: 39px;
+}
+
+main #bottom div p:hover{
+	border: 2px solid;
+	border-color: #191919;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	background-color: #191919;
+}
+
+main #bottom ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	height: 435px;
+}
+
+main #bottom ul li{
+	float: left;
+}
+
+main #bottom ul li img{
+	padding-right: 10px;
+	padding-left: 10px;
+}

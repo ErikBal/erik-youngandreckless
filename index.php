@@ -193,7 +193,17 @@
 				</figure>
 			</section>
 			<section id="bottom" class="box">
-
+				<div>
+					<p>SHOW MORE</p>
+				</div>
+				<ul>
+					<li>
+						<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/banner-home-bottom-1.jpg?16579107724765185310">
+					</li>
+					<li>
+						<img src="http://cdn.shopify.com/s/files/1/0340/3381/t/17/assets/banner-home-bottom-2.jpg?16579107724765185310">
+					</li>
+				</ul>
 			</sections>
 		</main>
 		<footer>
@@ -212,8 +222,6 @@
 				</article>
 				<nav>
 					<ul>
-						<li></li>
-						<li></li>
 					</ul>
 				</nav>
 				<div>
